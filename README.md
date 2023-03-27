@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @codeishaan
-- 👀 I’m interested in C/C++ , stock trading 
-- 🌱 I’m currently learning python,C++ DSA
+- 👀 I’m interested in java 
+- 🌱 I’m currently learning Web Development, DSA
 - 💞️ I’m looking to collaborate on start up community 
 - 📫 How to reach me ikhandelwal2102@gmail.com
 
