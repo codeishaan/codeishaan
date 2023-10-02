@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @codeishaan
-- 👀 I’m interested in java 
+- 👀 I’m interested in MERN STACK 
 - 🌱 I’m currently learning Web Development, DSA
-- 💞️ I’m looking to collaborate on start up community 
+- 💞️ I’m looking to collaborate on start up community
+- 💼 I'm working as an intern at KFin technologies
 - 📫 How to reach me ikhandelwal2102@gmail.com
 
 <!---
